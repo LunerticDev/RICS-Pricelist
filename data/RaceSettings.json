@@ -2,6 +2,7 @@
   "Human": {
     "DisplayName": "",
     "Enabled": true,
+    "ModActive": true,
     "BasePrice": 2625,
     "MinAge": 8,
     "MaxAge": 106,
