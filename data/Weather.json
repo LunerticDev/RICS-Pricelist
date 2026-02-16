@@ -238,5 +238,77 @@
     "ModSource": "ReGrowth 2",
     "modactive": true,
     "Version": 1
+  },
+  "AnomalyWeather": {
+    "DefName": "AnomalyWeather",
+    "Label": "darkness",
+    "Description": null,
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Anomaly Research Asteroid",
+    "modactive": true,
+    "Version": 1
+  },
+  "AE_BloodLakeWeatherClear": {
+    "DefName": "AE_BloodLakeWeatherClear",
+    "Label": "dark clear",
+    "Description": "A somber sky, covered with dark clouds.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Anomalies Expected",
+    "modactive": true,
+    "Version": 1
+  },
+  "AE_BloodLakeWeatherBloodFog": {
+    "DefName": "AE_BloodLakeWeatherBloodFog",
+    "Label": "blood-like liquid high concentration",
+    "Description": "A crimson fog, thick and ominous, blankets the surroundings. This mist is a direct consequence of the elevated concentration of blood-like liquid in the air. Despite its apparent harmlessness, a subtle sense of dread creeps in. This phenomenon will undoubtedly affect all beings outside of enclosed spaces.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Anomalies Expected",
+    "modactive": true,
+    "Version": 1
+  },
+  "AE_SnowArmy": {
+    "DefName": "AE_SnowArmy",
+    "Label": "heavy snow",
+    "Description": "Heavy snow created by Snow Army presence.",
+    "BaseCost": 200,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Anomalies Expected",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_FertileRains": {
+    "DefName": "VEE_FertileRains",
+    "Label": "fertile rain",
+    "Description": "Unusually nutrient-rich rainfall is sweeping across the region, boosting plant growth for its duration.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_DustStorm": {
+    "DefName": "VEE_DustStorm",
+    "Label": "dust storm",
+    "Description": "A choking wall of wind-driven dust sweeps across the land, reducing visibility, slowing movement, and scouring anything left exposed.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
   }
 }
