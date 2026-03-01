@@ -1488,10 +1488,10 @@
     "MechSerumHealer": {
       "DefName": "MechSerumHealer",
       "CustomName": "Healer mech serum",
-      "HasQuantityLimit": false,
-      "QuantityLimit": 10,
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -8847,7 +8847,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1,
       "Category": "Raw resources",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Leather_Dread": {
