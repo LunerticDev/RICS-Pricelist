@@ -334,5 +334,17 @@
     "ModSource": "Vanilla Quests Expanded - Deadlife",
     "modactive": true,
     "Version": 1
+  },
+  "VPE_RadioactiveFog": {
+    "DefName": "VPE_RadioactiveFog",
+    "Label": "radioactive fog",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Furniture Expanded - Power",
+    "modactive": true,
+    "Version": 1
   }
 }

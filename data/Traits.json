@@ -120,13 +120,14 @@
     "Description": "{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.",
     "Stats": [
       "+75.0% Global learning factor",
-      "+0.12 Mental break threshold"
+      "+0.12 Mental break threshold",
+      "-0.75 Sanity loss multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 449,
-    "RemovePrice": 748,
+    "AddPrice": 561,
+    "RemovePrice": 936,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -587,12 +588,14 @@
     "Name": "Tortured artist",
     "Degree": 0,
     "Description": "{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to gain either a creativity or artistry inspiration after a mental break. Furthermore unlike others {PAWN_pronoun} also can gain artistry inspirations when inspired by high mood.",
-    "Stats": [],
+    "Stats": [
+      "+0.25 Sanity loss multiplier"
+    ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 150,
-    "RemovePrice": 250,
+    "AddPrice": 187,
+    "RemovePrice": 312,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -843,13 +846,14 @@
     "Degree": 2,
     "Description": "[PAWN_name]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before.",
     "Stats": [
-      "-0.18 Mental break threshold"
+      "-0.18 Mental break threshold",
+      "-0.5 Sanity loss multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 80,
-    "RemovePrice": 667,
+    "AddPrice": 102,
+    "RemovePrice": 855,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -864,13 +868,14 @@
     "Degree": 1,
     "Description": "[PAWN_name] is mentally tough and won't break down under stresses that would crack most people.",
     "Stats": [
-      "-0.09 Mental break threshold"
+      "-0.09 Mental break threshold",
+      "-0.25 Sanity loss multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 62,
-    "RemovePrice": 521,
+    "AddPrice": 73,
+    "RemovePrice": 615,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -885,13 +890,14 @@
     "Degree": -1,
     "Description": "[PAWN_name] tends to crack under pressure.",
     "Stats": [
-      "+0.08 Mental break threshold"
+      "+0.08 Mental break threshold",
+      "-0.25 Sanity gain multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 207,
-    "RemovePrice": 345,
+    "AddPrice": 73,
+    "RemovePrice": 611,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -906,13 +912,14 @@
     "Degree": -2,
     "Description": "[PAWN_name] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation.",
     "Stats": [
-      "+0.15 Mental break threshold"
+      "+0.15 Mental break threshold",
+      "-0.5 Sanity gain multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 262,
-    "RemovePrice": 437,
+    "AddPrice": 101,
+    "RemovePrice": 843,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -928,13 +935,14 @@
     "Description": "[PAWN_name] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective].",
     "Stats": [
       "+0.2 Global work speed",
-      "+0.08 Mental break threshold"
+      "+0.08 Mental break threshold",
+      "+0.15 Sanity loss multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 282,
-    "RemovePrice": 470,
+    "AddPrice": 304,
+    "RemovePrice": 507,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -950,13 +958,14 @@
     "Description": "[PAWN_name] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective].",
     "Stats": [
       "+0.4 Global work speed",
-      "+0.14 Mental break threshold"
+      "+0.14 Mental break threshold",
+      "+0.3 Sanity multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 411,
-    "RemovePrice": 685,
+    "AddPrice": 455,
+    "RemovePrice": 759,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -1569,6 +1578,152 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Factions Expanded - Pirates",
+    "modactive": true,
+    "Version": 1
+  },
+  "VAEI_Inhumanized_0": {
+    "DefName": "VAEI_Inhumanized",
+    "Name": "Inhumanized",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef}'s mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence.",
+    "Stats": [
+      "-0.01 Sanity gain per day"
+    ],
+    "Conflicts": [],
+    "CanAdd": false,
+    "CanRemove": false,
+    "AddPrice": 45,
+    "RemovePrice": 378,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Vanilla Anomaly Expanded - Insanity",
+    "modactive": true,
+    "Version": 1
+  },
+  "VAEI_VoidTouched_0": {
+    "DefName": "VAEI_VoidTouched",
+    "Name": "Void touched",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": false,
+    "CanRemove": false,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Vanilla Anomaly Expanded - Insanity",
+    "modactive": true,
+    "Version": 1
+  },
+  "VAEI_Germaphobe_0": {
+    "DefName": "VAEI_Germaphobe",
+    "Name": "Germaphobe",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is terrified of germs and contamination, leading to excessively slow and meticulous cleaning, but due to the careful nature will never contract flu, malaria, or plague.",
+    "Stats": [
+      "+1 Sanity loss multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": false,
+    "CanRemove": false,
+    "AddPrice": 300,
+    "RemovePrice": 500,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Vanilla Anomaly Expanded - Insanity",
+    "modactive": true,
+    "Version": 1
+  },
+  "VAEI_Noncommittal_0": {
+    "DefName": "VAEI_Noncommittal",
+    "Name": "Noncommittal",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is desperately afraid of commitment. {PAWN_pronoun} will actively refuse any attachment to others, and will never form any new relationships.",
+    "Stats": [
+      "+1 Sanity loss multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": false,
+    "CanRemove": false,
+    "AddPrice": 300,
+    "RemovePrice": 500,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Vanilla Anomaly Expanded - Insanity",
+    "modactive": true,
+    "Version": 1
+  },
+  "VAEI_Unstable_0": {
+    "DefName": "VAEI_Unstable",
+    "Name": "Impulsive",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef}'s emotional foundation is fragile, making {PAWN_objective} significantly more prone to crumbling under stress. {PAWN_pronoun} struggle to handle pressure, which often leads to breakdowns in challenging situations.",
+    "Stats": [
+      "+0.12 Mental break threshold",
+      "+1 Sanity loss multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": false,
+    "CanRemove": false,
+    "AddPrice": 317,
+    "RemovePrice": 529,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Vanilla Anomaly Expanded - Insanity",
+    "modactive": true,
+    "Version": 1
+  },
+  "VAEI_Distractable_0": {
+    "DefName": "VAEI_Distractable",
+    "Name": "Distractable",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} hyperfocuses on certain things when {PAWN_pronoun} feel like it, but most of the time {PAWN_pronoun} will struggle to concentrate on {PAWN_possessive} task, severely affecting {PAWN_possessive} work speed.",
+    "Stats": [
+      "+1 Sanity loss multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": false,
+    "CanRemove": false,
+    "AddPrice": 300,
+    "RemovePrice": 500,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Vanilla Anomaly Expanded - Insanity",
+    "modactive": true,
+    "Version": 1
+  },
+  "VAEI_MoodSwings_0": {
+    "DefName": "VAEI_MoodSwings",
+    "Name": "Mood swings",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} suffers from severe mood swings that can last anything between a day and a quadrum. One day {PAWN_pronoun} might be extremely happy, whilst the next day - extremely sad.",
+    "Stats": [
+      "+1 Sanity loss multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": false,
+    "CanRemove": false,
+    "AddPrice": 300,
+    "RemovePrice": 500,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Vanilla Anomaly Expanded - Insanity",
     "modactive": true,
     "Version": 1
   }
