@@ -1465,27 +1465,6 @@
     "modactive": true,
     "Version": 1
   },
-  "Cinder_Coke_0": {
-    "DefName": "Cinder_Coke",
-    "Name": "Coke",
-    "Degree": 0,
-    "Description": "{PAWN_nameDef} is a part of an unknown consciousness. when others approach, they will feel a burning sensation",
-    "Stats": [
-      "+1 Beauty"
-    ],
-    "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
-    "AddPrice": 225,
-    "RemovePrice": 375,
-    "BypassLimit": false,
-    "CustomName": false,
-    "KarmaTypeForAdding": null,
-    "KarmaTypeForRemoving": null,
-    "ModSource": "Cinders of the Embergarden",
-    "modactive": true,
-    "Version": 1
-  },
   "VCEF_Fisherman_0": {
     "DefName": "VCEF_Fisherman",
     "Name": "Fisherman",
