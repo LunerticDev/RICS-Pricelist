@@ -41667,7 +41667,7 @@
       "Mod": "Alpha Armoury",
       "BasePrice": 850,
       "Category": "Weapon kits",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AArmoury_WeaponKit_Converter": {
@@ -41682,7 +41682,7 @@
       "Mod": "Alpha Armoury",
       "BasePrice": 850,
       "Category": "Weapon kits",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AArmoury_WeaponKit_Remover": {
@@ -41697,7 +41697,7 @@
       "Mod": "Alpha Armoury",
       "BasePrice": 850,
       "Category": "Weapon kits",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AArmoury_WeaponKit_TabulaRasa": {
@@ -41712,7 +41712,7 @@
       "Mod": "Alpha Armoury",
       "BasePrice": 3000,
       "Category": "Weapon kits",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AArmoury_Gun_Launcher_Unique": {
@@ -41722,12 +41722,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Armoury",
       "BasePrice": 380,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_BanquetTable": {
@@ -41742,7 +41742,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 360,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_CubicBed": {
@@ -41757,7 +41757,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 93,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_DoubleCubicBed": {
@@ -41772,7 +41772,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 175,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_CubicHospitalBed": {
@@ -41787,7 +41787,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 400,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_HoraxianBed": {
@@ -41802,7 +41802,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 93,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_DoubleHoraxianBed": {
@@ -41817,7 +41817,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 175,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_CubicSlab_Medium": {
@@ -41832,7 +41832,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_CubicSlab_Broad": {
@@ -41847,7 +41847,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_FleshSlab_Medium": {
@@ -41862,7 +41862,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_FleshSlab_Broad": {
@@ -41877,7 +41877,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_HoraxianSlab_Medium": {
@@ -41892,7 +41892,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_HoraxianSlab_Broad": {
@@ -41907,7 +41907,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Pyramid": {
@@ -41922,7 +41922,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 2880,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_GrandGate": {
@@ -41937,7 +41937,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 1070,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_FuturisticObelisk": {
@@ -41952,7 +41952,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 835,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_FuturisticStele": {
@@ -41967,7 +41967,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 835,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_FuturisticPyramid": {
@@ -41982,7 +41982,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 17880,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_GreatPyramid": {
@@ -41997,7 +41997,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 19440,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Sphynx": {
@@ -42012,7 +42012,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 9720,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Megalith": {
@@ -42027,7 +42027,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 1170,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_StoneBedroll": {
@@ -42042,7 +42042,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 95,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_DoubleStoneBedroll": {
@@ -42057,7 +42057,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 177,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_AncientBed": {
@@ -42072,7 +42072,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 63,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_AncientDoubleBed": {
@@ -42087,7 +42087,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 145,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_AncientOperatingTable": {
@@ -42102,7 +42102,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 390,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_AncientLockerBank": {
@@ -42117,7 +42117,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 255,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_StoneTable_1x2c": {
@@ -42132,7 +42132,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 59,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_StoneTable_2x2c": {
@@ -42147,7 +42147,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 105,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_StoneTable_2x4c": {
@@ -42162,7 +42162,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 200,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_StoneTable_3x3c": {
@@ -42177,7 +42177,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 210,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_WoodenTable_1x2c": {
@@ -42192,7 +42192,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 59,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_WoodenTable_2x2c": {
@@ -42207,7 +42207,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 105,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_WoodenTable_2x4c": {
@@ -42222,7 +42222,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 200,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Neolithic_WoodenTable_3x3c": {
@@ -42237,7 +42237,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 210,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_TrapBlunt": {
@@ -42267,7 +42267,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 93,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Apparel_Eyepatch": {
@@ -42297,7 +42297,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_JewishSlab_Broad": {
@@ -42312,7 +42312,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_KemeticSlab_Medium": {
@@ -42327,7 +42327,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_KemeticSlab_Broad": {
@@ -42342,7 +42342,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_HinduSlab_Medium": {
@@ -42357,7 +42357,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_HinduSlab_Broad": {
@@ -42372,7 +42372,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_SteampunkSlab_Medium": {
@@ -42387,7 +42387,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_SteampunkSlab_Broad": {
@@ -42402,7 +42402,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_CorsairSlab_Medium": {
@@ -42417,7 +42417,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_CorsairSlab_Broad": {
@@ -42432,7 +42432,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_JainSlab_Medium": {
@@ -42447,7 +42447,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_JainSlab_Broad": {
@@ -42462,7 +42462,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_SikhSlab_Medium": {
@@ -42477,7 +42477,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_SikhSlab_Broad": {
@@ -42492,7 +42492,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_IslamicSlab_Medium": {
@@ -42507,7 +42507,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_IslamicSlab_Broad": {
@@ -42522,7 +42522,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_ChristianSlab_Medium": {
@@ -42537,7 +42537,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_ChristianSlab_Broad": {
@@ -42552,7 +42552,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_BuddhistSlab_Medium": {
@@ -42567,7 +42567,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_BuddhistSlab_Broad": {
@@ -42582,7 +42582,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "GU_RedWood": {
@@ -42657,7 +42657,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 86,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_Urn": {
@@ -42672,7 +42672,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 42,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_MummyMale": {
@@ -42687,7 +42687,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 118,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_MummyFemale": {
@@ -42702,7 +42702,7 @@
       "Mod": "Alpha Memes",
       "BasePrice": 118,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AM_CubicCrib": {
@@ -42717,7 +42717,7 @@
       "Mod": "RimWorld",
       "BasePrice": 51,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     }
   }
