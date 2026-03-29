@@ -26,7 +26,22 @@
       "Waster": 2187.5,
       "Yttakin": 1750.0,
       "Highmate": 1750.0,
-      "Starjack": 1750.0
+      "Starjack": 1750.0,
+      "VRE_Animakin": 2625.0,
+      "VRE_Boarskin": 2625.0,
+      "VRE_Bruxa": 2625.0,
+      "VRE_Ekkimian": 2625.0,
+      "VRE_Fungoid": 2625.0,
+      "VRE_Gauranlenkin": 2625.0,
+      "VRE_Lowmate": 2625.0,
+      "VRE_Lycan": 2625.0,
+      "VRE_Poluxkin": 2625.0,
+      "VRE_Strigoi": 2625.0,
+      "VRE_Wolfman": 2625.0,
+      "VREA_AndroidAwakened": 2625.0,
+      "VREA_AndroidBasic": 2625.0,
+      "VREH_Uhlan": 2625.0,
+      "VRESaurids_Saurid": 2625.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -40,7 +55,22 @@
       "Waster": true,
       "Yttakin": true,
       "Highmate": true,
-      "Starjack": true
+      "Starjack": true,
+      "VRE_Animakin": true,
+      "VRE_Boarskin": true,
+      "VRE_Bruxa": false,
+      "VRE_Ekkimian": false,
+      "VRE_Fungoid": false,
+      "VRE_Gauranlenkin": true,
+      "VRE_Lowmate": true,
+      "VRE_Lycan": true,
+      "VRE_Poluxkin": true,
+      "VRE_Strigoi": false,
+      "VRE_Wolfman": true,
+      "VREA_AndroidAwakened": false,
+      "VREA_AndroidBasic": true,
+      "VREH_Uhlan": false,
+      "VRESaurids_Saurid": true
     }
   }
 }
